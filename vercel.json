@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "sni-xhttp",
+  "name": "my-reverse-application",
   "functions": {
     "api/index.js": {
       "memory": 128,
